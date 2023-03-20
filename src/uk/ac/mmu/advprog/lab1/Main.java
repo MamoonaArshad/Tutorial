@@ -1,4 +1,3 @@
-package uk.ac.mmu.advprog.lab1;
 
 import java.util.Scanner;
 
